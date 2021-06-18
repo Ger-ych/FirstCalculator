@@ -1,2 +1,2 @@
 # FirstCalculator
-My first simplest C ++ calculator
+My first simplest C++ calculator
